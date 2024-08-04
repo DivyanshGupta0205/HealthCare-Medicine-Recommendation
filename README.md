@@ -22,8 +22,8 @@ This project aims to leverage blockchain technology to revolutionize the healthc
   <li><strong>Transparency:</strong> All transactions within the block are visible to all participants.</li>
 </ul>
 <h3>Post Request Using Postman</h3>
-<img src="Outputs/mine1.PNG">
-<img src="Outputs/mine2.PNG">
+<img src="outputs/mine1.PNG">
+<img src="outputs/mine2.PNG">
 <br><br>
 
 <h1>Full Chain Output of Blockchain</h1>
@@ -55,4 +55,4 @@ This project aims to leverage blockchain technology to revolutionize the healthc
 
 <h3>Get Request Using Postman</h3>
 
-<img src="Outputs/getchain.PNG">
+<img src="outputs/getchain.PNG">
